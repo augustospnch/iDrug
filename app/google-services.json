@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "501856503410",
+    "firebase_url": "https://idrug-ab0fa.firebaseio.com",
+    "project_id": "idrug-ab0fa",
+    "storage_bucket": "idrug-ab0fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501856503410:android:edde271fd98a094f3be4eb",
+        "android_client_info": {
+          "package_name": "com.example.idrug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501856503410-vp1iuoqqd08gbm6o06bqutgqq6ij97qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.idrug",
+            "certificate_hash": "8ef03bcd4fe9dec94058d08421aeb92457ea5911"
+          }
+        },
+        {
+          "client_id": "501856503410-i89rb9l50pu03u3k43rdrtd6j0n82aq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAseplObLi-9iGf-nN06xYm0SLWATDZ-y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501856503410-i89rb9l50pu03u3k43rdrtd6j0n82aq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

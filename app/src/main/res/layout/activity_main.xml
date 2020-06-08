@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tela1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#141E59">
+
+    <Button
+        android:id="@+id/loginbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="160dp"
+        android:layout_marginLeft="160dp"
+        android:layout_marginTop="340dp"
+        android:background="#DDDDDD"
+        android:onClick="login"
+        android:text="@string/loginbutton" />
+
+    <Button
+        android:id="@+id/cadastrobutton"
+        android:layout_width="125dp"
+        android:layout_height="62dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="142dp"
+        android:layout_marginLeft="142dp"
+        android:layout_marginTop="426dp"
+        android:background="#D6D6D6"
+        android:text="CADASTRE-SE"
+        android:onClick="cadastro"/>
+
+</RelativeLayout>
